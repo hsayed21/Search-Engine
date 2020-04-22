@@ -3,7 +3,7 @@ Project in [ Language Engineering ] FCS Level 3
 
 ---
 
-Install Libs
+Install Libraries
 ```
 pip install b4
 nltk.download('punkt')
